@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     var email = "seenuprathap2000@gmail.com"
     var password = "osiz@123"
     var confirm_password = "osiz@123"
-    var country = "India"
+    var country = GoogleApiKey.key
     var referralcode = ""
     var lightAnimation = false
     
