@@ -91,5 +91,6 @@ iOSInjectionProject/
 
 .DS_Store
 Secrets/
-AlamaFire/TestIgnoreFile.swift
+AlamaFire/AlamaFire/TestIgnoreFile.swift
+
 
