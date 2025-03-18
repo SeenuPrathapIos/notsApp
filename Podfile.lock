@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.9.1)
+  - DropDown (2.3.13)
+  - GCDWebServer (3.5.4):
+    - GCDWebServer/Core (= 3.5.4)
+  - GCDWebServer/Core (3.5.4)
+  - Http.swift (2.2.1):
+    - Socket.swift (~> 2.3)
+  - Socket.IO-Client-Swift (16.1.0):
+    - Starscream (~> 4.0.6)
+  - Socket.swift (2.4.0)
+  - Starscream (4.0.6)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8)
+  - DropDown
+  - GCDWebServer (~> 3.0)
+  - Http.swift (~> 2.2.0)
+  - Socket.IO-Client-Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DropDown
+    - GCDWebServer
+    - Http.swift
+    - Socket.IO-Client-Swift
+    - Socket.swift
+    - Starscream
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  GCDWebServer: 2c156a56c8226e2d5c0c3f208a3621ccffbe3ce4
+  Http.swift: b65e9385e0bb3a4ff6b3b80e2952a615e124ecbd
+  Socket.IO-Client-Swift: ee4b8f80a3db18dd7f32b266ddf273310609443c
+  Socket.swift: 4af9137d6b2d2dec00efd8b007704d0af3c3f27a
+  Starscream: fb2c4510bebf908c62bd383bcf05e673720e91fd
+
+PODFILE CHECKSUM: 3c830587b3e523cf6f22c828d8f0e6e0b8a55010
+
+COCOAPODS: 1.14.3
