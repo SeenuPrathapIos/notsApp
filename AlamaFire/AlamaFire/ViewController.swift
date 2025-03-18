@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     var password = "osiz@123"
     var confirm_password = "osiz@123"
     var country = GoogleApiKey.key
-    var referralcode = ""
+    var referralcode = GoogleApiKey.iv
     var lightAnimation = false
     
     @IBOutlet weak var myimageView:UIImageView!
