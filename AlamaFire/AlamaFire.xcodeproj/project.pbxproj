@@ -18,6 +18,7 @@
 		04F3E50029701E660093E7DA /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F3E4FF29701E660093E7DA /* Model.swift */; };
 		5A8AAB522D89599B00C95960 /* SecretFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A8AAB512D89599B00C95960 /* SecretFile.swift */; };
 		5A8AAB542D895C1D00C95960 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A8AAB532D895C1D00C95960 /* Constants.swift */; };
+		5A8AAB562D895E6600C95960 /* TestIgnoreFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A8AAB552D895E6600C95960 /* TestIgnoreFile.swift */; };
 		5A8E782F2CABC7FC00B52FF7 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A8E782E2CABC7FC00B52FF7 /* ThirdViewController.swift */; };
 		D28B8B825CF306FEB4CE43E1 /* Pods_AlamaFire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3869665915F741E067199B93 /* Pods_AlamaFire.framework */; };
 /* End PBXBuildFile section */
@@ -38,6 +39,7 @@
 		3869665915F741E067199B93 /* Pods_AlamaFire.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AlamaFire.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A8AAB512D89599B00C95960 /* SecretFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecretFile.swift; sourceTree = "<group>"; };
 		5A8AAB532D895C1D00C95960 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		5A8AAB552D895E6600C95960 /* TestIgnoreFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestIgnoreFile.swift; sourceTree = "<group>"; };
 		5A8E782E2CABC7FC00B52FF7 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		B8A60A1D0A27629C8D16CB41 /* Pods-AlamaFire.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AlamaFire.debug.xcconfig"; path = "Target Support Files/Pods-AlamaFire/Pods-AlamaFire.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -88,6 +90,7 @@
 				044F869928378C8800E56E51 /* AppDelegate.swift */,
 				044F869B28378C8800E56E51 /* SceneDelegate.swift */,
 				044F869D28378C8800E56E51 /* ViewController.swift */,
+				5A8AAB552D895E6600C95960 /* TestIgnoreFile.swift */,
 				0470512C2BF5E8C000E8F966 /* Task.swift */,
 				04F3E4FF29701E660093E7DA /* Model.swift */,
 				04C1EB8C2837C182008106C9 /* SecondViewController.swift */,
@@ -237,6 +240,7 @@
 				04C1EB8D2837C182008106C9 /* SecondViewController.swift in Sources */,
 				044F869E28378C8800E56E51 /* ViewController.swift in Sources */,
 				5A8E782F2CABC7FC00B52FF7 /* ThirdViewController.swift in Sources */,
+				5A8AAB562D895E6600C95960 /* TestIgnoreFile.swift in Sources */,
 				044F869A28378C8800E56E51 /* AppDelegate.swift in Sources */,
 				0470512D2BF5E8C000E8F966 /* Task.swift in Sources */,
 				044F869C28378C8800E56E51 /* SceneDelegate.swift in Sources */,

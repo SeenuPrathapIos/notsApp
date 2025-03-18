@@ -90,4 +90,5 @@ fastlane/test_output
 iOSInjectionProject/
 
 .DS_Store
-Secrets/SecretFile.swift
+Secrets/
+AlamaFire/TestIgnoreFile.swift
